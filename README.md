@@ -1,4 +1,5 @@
 # Food-Ordering website
+This is a food ordering website made with HTML,CSS and JavaScript.This website is basically a clone of e-commerce shopping websites.
 #some screenshots of the project
 ![2023-08-01 (1)](https://github.com/nehaSamipa8/Food-Ordering/assets/112778133/638d0e0b-981e-424e-9a23-d83e0c413948)
 ![2023-08-01 (2)](https://github.com/nehaSamipa8/Food-Ordering/assets/112778133/fa50d528-6d29-4cfb-900d-ef6693e1e3cb)
